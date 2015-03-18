@@ -1,0 +1,47 @@
+- Deverá ser em dupla
+- Data da apresentação e entrega: 10/04
+- Valor: 4 pts
+========================================================
+Ordem do Trabalho:
+Desenvolvimento de um Sistema JAVA Desktop que apresente as seguintes características e/ou operações:
+- uma interface e/ou uma classe abstrata
+- uma herança.
+- uma composicao/agregação
+- uma associação simples.
+- um método que foi alvo de polimorfismo
+- CRUD das entidades/classes mais importantes (ou de todas).
+- A lógica proposta pelo sistema (Ex: aluguel de dvds e etc)
+- Divisão entre apresentação/negócio/persistencia
+- Pelo menos uma instrução SQL com inner join (adicionar no DAO)
+- Pelo menos uma instrução SQL com group by (adicionar DAO)
+- Pelo menos uma instrução SQL com funções de agregação: avg, sum e etc. (adicionar no DAO)
+- Utilizar e pesquisar sobre Padrões de Projeto (singleton (conexão bd, factory (para os daos) e etc)
+==================================================
+Observações:
+- A interface pode ser pelo Terminal
+- O sistema pode ser uma loja, uma locadora, uma garagem coletiva, um cadastro de super-heróis ou etc...
+=======================================================
+Deverá ser entregue:
+- o diagrama de caso e uso (Você sabe a diferença entre include e extend?)
+- o digrama de classes (como representa uma interface? Uma classe abstrata, uma herança? Como representa agregação/composição?)
+- o diagrama de entidade/relacionamento (Peter Chen ou Pé de Galinha (Martin ....)
+- código + dump do B.D
++ apresentação do projeto (se quiser usar power point ou similar)
+=====================================================
+Durante a apresentação deverá responder questões do seguinte tipo:
+- Por que utilizou interface?
+- Por que optou por fazer esse sistema?
+- ||  ||  || esta classe abstrata?
+- Questões sobre organização do projeto...
+- E etc.... 
+==================================================
+Dicas:
+Utilizar as classes de conexão desenvolvidas na aula
+Utilizar JUDE para a criação dos diagramas UML (caso de uso e de classes)
+Utilizar o pgadmin3 para a criação e gerenciamento da base de dados do sistema
+Utilizar o modelo de DAO desenvolvido durante a aula.
+====================================================
+
+Em anexo os temas e as duplas.
+
+ps: favor não repetir tema.
